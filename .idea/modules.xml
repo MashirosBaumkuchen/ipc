@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/RpcDemo.iml" filepath="$PROJECT_DIR$/RpcDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/c/c.iml" filepath="$PROJECT_DIR$/c/c.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rpc.iml" filepath="$PROJECT_DIR$/rpc.iml" />
       <module fileurl="file://$PROJECT_DIR$/s/s.iml" filepath="$PROJECT_DIR$/s/s.iml" />
     </modules>
   </component>
