@@ -1,3 +1,9 @@
-# rpc
+# ipc
 
-An android practice application about RPC
+An android practice application about ipc
+
+* aidl
+
+* binder
+
+* ...
